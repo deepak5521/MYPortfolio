@@ -28,19 +28,7 @@ st.markdown("""
     box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
 }
 
-/* Skill item layout and icon styling */
-.skill-item {
-    display: flex;
-    align-items: center;
-    margin-bottom: 5px;
-}
-.skill-item i {
-    margin-right: 10px;
-    font-size: 1.5em;
-}
-.skill-item span {
-    font-weight: normal;
-}
+
 </style>
 """, unsafe_allow_html=True)
 
